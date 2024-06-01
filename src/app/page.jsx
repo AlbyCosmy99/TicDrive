@@ -1,5 +1,7 @@
+import ServicesCards from "./components/ui/layout/ServicesCards/ServicesCards";
+
 export default function Home() {
   return (
-    <p>TIC DRIVE</p>
+    <ServicesCards />
   );
 }

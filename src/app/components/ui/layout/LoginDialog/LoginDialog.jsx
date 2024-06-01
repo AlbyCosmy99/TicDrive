@@ -1,4 +1,4 @@
-import AuthContext from '@/app/Contexts/AuthContext';
+import AuthContext from '@/app/components/ui/contexts/AuthContext';
 import { useContext } from 'react';
 import Button from 'react-bootstrap/Button';
 import Modal from 'react-bootstrap/Modal';
