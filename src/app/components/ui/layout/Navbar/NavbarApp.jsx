@@ -25,7 +25,7 @@ export default function NavbarApp() {
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="ms-auto d-flex gap-3">
-                            <Button variant="success" onClick={() => setIsLoginDialog(true)}>Login</Button>
+                            <Button variant="success" onClick={() => setIsLoginDialog(true)}>LOGIN</Button>
                             <Button variant="success" onClick={() => setIsLoginDialog(true)}>REGISTRATI ORA</Button>
                         </Nav>
                     </Navbar.Collapse>
