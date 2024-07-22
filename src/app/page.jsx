@@ -33,7 +33,7 @@ export default function Home() {
       <div className="d-flex justify-content-around w-100 fs-5">
           <div className="d-flex flex-column justify-content-center align-items-center">
             <i className="bi bi-amd"></i>
-            <b className="mt-1">Affidabilita'</b>
+            <b className="mt-1">Affidabilita&apos;</b>
           </div>
           <div className="d-flex flex-column justify-content-center align-items-center">
             <i className="bi bi-amd"></i>
@@ -41,7 +41,7 @@ export default function Home() {
           </div>
           <div className="d-flex flex-column justify-content-center align-items-center">
             <i className="bi bi-amd"></i>
-            <b className="mt-1">Velocita'</b>
+            <b className="mt-1">Velocita&apos;</b>
           </div>
       </div>
     </div>
