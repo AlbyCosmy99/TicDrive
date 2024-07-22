@@ -2,3 +2,24 @@
     width: 18rem;
     margin-top: 2rem;
 }
+
+.customTextCard {
+    width: 80% !important;
+    margin-left: 10%;
+    margin-right: 10%;
+    top: 65%;
+    background-color: white !important;
+    border-radius: var(--card-text-border-radius);
+    height: 6rem;
+}
+
+.innerCardText {
+    background-color: white;
+    width: 100%;
+    border: 0;
+    border-radius: var(--card-text-border-radius);
+}
+
+.innerCardText:hover {
+    background-color: white;
+}

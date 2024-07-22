@@ -1,0 +1,14 @@
+.backgroundColor {
+    background-color: var(--background-color);
+}
+
+.navbarButton {
+    background-color: var(--background-color);
+    color: black;
+    border: 0;
+}
+.navbarButton:hover {
+    background-color: var(--background-color);
+    color: black;
+    border: 0;
+}
