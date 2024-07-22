@@ -11,8 +11,7 @@ export default function LoginDialog() {
   };
 
   return (
-    <>
-      <Modal
+    <Modal
         show={isLoginDialog}
         onHide={handleClose}
         backdrop="static"
@@ -31,6 +30,5 @@ export default function LoginDialog() {
           <Button variant="primary">Login</Button>
         </Modal.Footer>
       </Modal>
-    </>
   );
 }
